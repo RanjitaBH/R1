@@ -1,2 +1,3 @@
 CSE
-B sec# R1
+B sec
+3rd sem
